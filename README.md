@@ -1,4 +1,4 @@
-# Yahoo Finance-dataset-samples
+# Yahoo-Finance-dataset-samples
 
 <h2>A sample dataset of 1001 Yahoo Finance business information</h2>
 
